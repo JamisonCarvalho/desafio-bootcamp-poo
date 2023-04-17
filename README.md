@@ -1,6 +1,6 @@
 # Desafio de projeto DIO (Paradigma de programação orientada a objetos)
 
-## O que apredi nessa desafio:
+## O que apredi nesse desafio:
  - Configurar o ambiente
  - Conceito de Herança
  - Polimorfismo
